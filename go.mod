@@ -42,7 +42,7 @@ require (
 	github.com/metal3-io/baremetal-operator v0.0.0-20210317131627-82fd2d7f8daa
 	github.com/moby/moby v1.13.1
 	github.com/onsi/ginkgo v1.16.4
-	github.com/onsi/gomega v1.13.0
+	github.com/onsi/gomega v1.17.0
 	github.com/openshift-online/ocm-sdk-go v0.1.190
 	github.com/openshift/api v3.9.1-0.20191111211345-a27ff30ebf09+incompatible
 	github.com/openshift/client-go v0.0.0-20201020074620-f8fd44879f7c
